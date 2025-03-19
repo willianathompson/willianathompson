@@ -1,4 +1,4 @@
-<h1>Hi, I'm Williana, an <a href="https://linkedin.com/in/Williana--">IT Professional</a></h1>
+<h1>Hi, I'm Williana, an <a href="https://www.linkedin.com/in/williana-thompson-775a66223/">IT Professional</a></h1>
 
 <h2> Information Technology Projects:</h2>
 
